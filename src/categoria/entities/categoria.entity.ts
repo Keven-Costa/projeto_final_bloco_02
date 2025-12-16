@@ -1,5 +1,7 @@
-import { Entity, PrimaryGeneratedColumn, Column } from 'typeorm';
+import { Entity, PrimaryGeneratedColumn, Column, OneToMany } from 'typeorm';
 import { IsNotEmpty } from 'class-validator';
+import { Produto } from '../../produto/entities/produto.entity';
+
 
 @Entity({ name: 'tb_categorias' })
 export class Categoria {
@@ -14,6 +16,9 @@ export class Categoria {
   @IsNotEmpty({ message: 'A descrição não pode estar vazia.' })
   @Column({ nullable: false })
   descricao: string;
+
+  @OneToMany(() => Produto, (produto) => produto.categoria)
+  produto: Produto[];
 
 
 }
