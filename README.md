@@ -222,9 +222,6 @@ Com certeza! Segui exatamente o modelo que você enviou para estruturar as três
 
 ---
 
-**Dica:** Note que nas restrições de `String`, utilizei os tamanhos que você especificou no texto original (como 255 e 5000) para manter a fidelidade técnica.
-
-Gostaria que eu gerasse o código para criar essas tabelas em **MySQL** ou **PostgreSQL**?
 
 <!-- ## <a id="funcionalidades-implementadas"></a> 📝 Funcionalidades Implementadas
 
