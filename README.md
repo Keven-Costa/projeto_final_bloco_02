@@ -9,11 +9,11 @@
 - [📦 Requisitos e Downloads](#requisitos-e-download)
 - [📁 Estrutura do Projeto](#estrutura-do-projeto)
 - [🗄️ Modelo de Dados](#modelo-de-dados)
-- [📝 Funcionalidades Implementadas](#funcionalidades-implementadas)
+<!-- - [📝 Funcionalidades Implementadas](#funcionalidades-implementadas)
 - [📝 Acessar a Aplicação](#acessar-a-aplicacao)
 - [🧪 Testando a Aplicação](#testando-a-aplicacao)
 - [⚠️ Problemas Conhecidos e Soluções](#problemas-conhecidos)
-- [📜 Scripts SQL](#scripts)
+- [📜 Scripts SQL](#scripts) -->
 
 ## API - Prateleira Digital
 
@@ -226,7 +226,7 @@ Com certeza! Segui exatamente o modelo que você enviou para estruturar as três
 
 Gostaria que eu gerasse o código para criar essas tabelas em **MySQL** ou **PostgreSQL**?
 
-## <a id="funcionalidades-implementadas"></a> 📝 Funcionalidades Implementadas
+<!-- ## <a id="funcionalidades-implementadas"></a> 📝 Funcionalidades Implementadas
 
 ### ✅ Usuário
 ### ✅ Categoria
@@ -240,4 +240,4 @@ Gostaria que eu gerasse o código para criar essas tabelas em **MySQL** ou **Pos
 ## <a id="problemas-conhecidos"></a> ⚠️ Problemas Conhecidos e Soluções
 
 ## <a id="scripts"></a> 📜 Scripts SQL
-### Criação Manual das Tabelas (se necessário)
+### Criação Manual das Tabelas (se necessário) -->
